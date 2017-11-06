@@ -10,7 +10,6 @@ int main()
 
     std::cout<<"liuchao412!"<<std::endl;
 
-    std::cout<<"你大爷!"<<std::endl;
     std::cout<<"g++!"<<std::endl;
     return 0;
 }

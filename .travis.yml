@@ -4,4 +4,4 @@ compiler:
 script:
     - $CXX main.cpp -o cpp_ci_test.o
     - ./cpp_ci_test.o
-
+    - echo "shell"
